@@ -12,3 +12,5 @@ pipeline {
         }
     }
 }
+
+#adding a note for jenkins
